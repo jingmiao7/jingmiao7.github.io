@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jing Miao</title>
+    <title>Home on Jing Miao</title>
     <link>https://jingmiao7.github.io/</link>
-    <description>Recent content on Jing Miao</description>
+    <description>Recent content in Home on Jing Miao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 09:51:31 +0800</lastBuildDate><atom:link href="https://jingmiao7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://jingmiao7.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FirstBlog</title>
-      <link>https://jingmiao7.github.io/post/2023/03/28/firstblog/</link>
-      <pubDate>Tue, 28 Mar 2023 09:51:31 +0800</pubDate>
+      <title>About Me</title>
+      <link>https://jingmiao7.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jingmiao7.github.io/post/2023/03/28/firstblog/</guid>
-      <description>This is my first blog! I&amp;rsquo;m Jing!</description>
+      <guid>https://jingmiao7.github.io/about/</guid>
+      <description>Current MSc student, Urban Informatics, Shenzhen University
+Shenzhen, China, 518060
+Education Shenzhen University, China
+M.S. in Geo-information and Smart City
+Sep. 2020 – Jun. 2023 (expected)
+Thesis on Retrieval of mangrove canopy equivalent water thickness using multiple satellite-based observations and hybrid model. Shandong Agricultural University, China
+B.S. in Surveying and Mapping Engineering
+Sep. 2016 – Jun. 2020
+Thesis on Recognition of vertical band spectrum of mountain Tai based on “DEM-RVI-land cover map”.</description>
     </item>
     
   </channel>
