@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jing Miao</title>
-    <link>https://jingmiao7.github.io/</link>
-    <description>Recent content on Jing Miao</description>
+    <title>Posts on Jing Miao</title>
+    <link>https://jingmiao7.github.io/post/</link>
+    <description>Recent content in Posts on Jing Miao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Mar 2023 09:51:31 +0800</lastBuildDate><atom:link href="https://jingmiao7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 09:51:31 +0800</lastBuildDate><atom:link href="https://jingmiao7.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FirstBlog</title>
       <link>https://jingmiao7.github.io/post/2023/03/28/firstblog/</link>
