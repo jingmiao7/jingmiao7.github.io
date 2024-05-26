@@ -20,10 +20,9 @@ redirect_from:
 
 🍀Rice and Coffee in my blood
 ---------------
-* Hobbies are: playing basketball, exploring new things, and reading novels.\
-* Favorite writers are: Elena Ferrante and Albert Camus.\
+* Hobbies are: playing basketball, exploring new things, and reading novels.
+* Favorite writers are: Elena Ferrante and Albert Camus.
 * Favorite things are: evening glories, forests, ocean, and life.
 
-🌍So you should be able to sense that my MBTI personality type is: INFJ!\
-  My motivation to live and learn comes from the curiosity about the world.
+🌍So you should be able to sense that my MBTI personality type is: INFJ! My motivation to live and learn comes from the curiosity about the world.
 
