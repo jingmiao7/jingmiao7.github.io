@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🐱Hello there! I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/). My research interests are remote sensing, mangrove forest ecology.
+🐱Hello there! I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/). My research interests are remote sensing and mangrove forest ecology.
 
 📚Recent research
 ---------------
@@ -19,7 +19,7 @@ redirect_from:
 
 🍀Rice and Coffee in my blood
 ---------------
-* Hobbies are: playing basketball, exploring new things, and reading novels.
+* Hobbies are: basketball, novels, and exploring new things.
 * Favorite writers are: Elena Ferrante and Albert Camus.
 * Favorite things are: evening glories, forests, ocean, and life.
 
