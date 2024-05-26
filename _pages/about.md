@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-🐱I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/).\
+🐱I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/).
+
 📚My research interests are remote sensing, mangrove forest ecology.
 
 🌲Recent research
