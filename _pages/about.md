@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-🏫I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/).\
-My research interests are remote sensing, mangrove forest ecology.
+🐱I am <strong>Jing</strong>, PhD student in [Geography](https://www.buffalo.edu/cas/geography.html) at [UB](https://www.buffalo.edu/).\
+📚My research interests are remote sensing, mangrove forest ecology.
 
-Recent research
+🌲Recent research
 ---------------
-[**Modeling strategies and influencing factors in retrieving canopy equivalent water thickness of mangrove forest with Sentinel-2 image**](https://www-sciencedirect-com.gate.lib.buffalo.edu/science/article/pii/S1470160X23016394)\
+[*Modeling strategies and influencing factors in retrieving canopy equivalent water thickness of mangrove forest with Sentinel-2 image](https://www-sciencedirect-com.gate.lib.buffalo.edu/science/article/pii/S1470160X23016394)\
 *<strong>Abstract:</strong> This paper mapped the mangrove canopy EWT using Sentinel-2 image at the reserve scale, aiming to explore three modeling strategies in retrieving mangrove canopy EWT, including machine learning models (Random Forest Regression (RFR) and Adaptive Boosting (Adaboost)), radiative transfer models (RTMs, PROSAIL-D and biophysical processor in Sentinel application platform) and hybrid models (PROSAIL-D + RFR and PROSAIL-D + Adaboost). We further investigated the impacts of four ecogeographical factors (species distribution, slope, elevation and distance to dam) on the spatial distribution of canopy EWT using Geodetector method.*
 
 [**Mapping seasonal leaf nutrients of mangrove with sentinel-2 images and XGBoost method**](https://www.mdpi.com/2072-4292/14/15/3679)\
