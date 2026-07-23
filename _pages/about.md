@@ -32,10 +32,12 @@ redirect_from:
     border: 1px solid #e6e8eb;
     display: block;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
     max-height: 520px;
     max-width: 100%;
     object-fit: contain;
-    width: 100%;
+    width: auto;
   }
 
   .workflow-figure figcaption {
