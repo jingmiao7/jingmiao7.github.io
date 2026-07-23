@@ -48,12 +48,12 @@ redirect_from:
   }
 </style>
 
-Hello there, I am <strong>Jing Miao</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at the <a href="https://www.buffalo.edu/">University at Buffalo</a>, advised by <a href="https://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html">Prof. Le Wang</a>. Before this, I received my M.S. in <a href="https://geospatial.szu.edu.cn/index.htm">Geo-information and Smart City</a> from <a href="https://en.szu.edu.cn/">Shenzhen University</a> and my B.E. in Surveying and Mapping Engineering from <a href="https://english.sdau.edu.cn/main.htm">Shandong Agricultural University</a>.
+Hello there, this is <strong>Jing</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at <a href="https://www.buffalo.edu/">University at Buffalo</a>, advised by <a href="https://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html">Prof. Le Wang</a>. Before this, I received my M.S. in <a href="https://geospatial.szu.edu.cn/index.htm">Geo-information and Smart City</a> from <a href="https://en.szu.edu.cn/">Shenzhen University</a> and my B.E. in Surveying and Mapping Engineering from <a href="https://english.sdau.edu.cn/main.htm">Shandong Agricultural University</a>.
 
 Research Interests
 ------------------
 
-My research focuses on mangrove forest dynamics, coastal resilience, and hurricane-related flooding through remote sensing and spatial analysis. Specifically, I am interested in using multi-source satellite imagery and geospatial modeling to characterize mangrove species composition, canopy condition, disturbance, and recovery, with the broader goal of supporting coastal ecosystem monitoring and risk assessment.
+My research focuses on <strong>mangrove forest dynamics</strong> and <strong>coastal resilience</strong> through remote sensing and spatial analysis. Specifically, I am interested in using multi-source satellite imagery and geospatial modeling to characterize mangrove species composition, canopy condition, disturbance, and recovery, with the broader goal of supporting coastal ecosystem monitoring and risk assessment.
 
 Recent Research
 ---------------
