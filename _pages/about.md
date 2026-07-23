@@ -8,14 +8,8 @@ redirect_from:
 ---
 
 <style>
-  .about-intro {
-    font-size: 1.05rem;
-    line-height: 1.75;
-    margin-bottom: 2rem;
-  }
-
   .research-item {
-    border-left: 3px solid #52adc8;
+    border-left: 3px solid #005bbb;
     margin: 1.35rem 0;
     padding-left: 1rem;
   }
@@ -52,14 +46,12 @@ redirect_from:
   }
 </style>
 
-<div class="about-intro">
-  Hello, I am <strong>Jing Miao</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at the <a href="https://www.buffalo.edu/">University at Buffalo</a>, advised by <a href="https://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html">Professor Le Wang</a>. I received my M.S. in <a href="https://geospatial.szu.edu.cn/index.htm">Geo-information and Smart City</a> from <a href="https://en.szu.edu.cn/">Shenzhen University</a> and my B.E. in Surveying and Mapping Engineering from <a href="https://english.sdau.edu.cn/main.htm">Shandong Agricultural University</a>.
-</div>
+Hello there, I am <strong>Jing Miao</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at the <a href="https://www.buffalo.edu/">University at Buffalo</a>, advised by <a href="https://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html">Prof. Le Wang</a>. Before this, I received my M.S. in <a href="https://geospatial.szu.edu.cn/index.htm">Geo-information and Smart City</a> from <a href="https://en.szu.edu.cn/">Shenzhen University</a> and my B.E. in Surveying and Mapping Engineering from <a href="https://english.sdau.edu.cn/main.htm">Shandong Agricultural University</a>.
 
 Research Interests
 ------------------
 
-My research focuses on mangrove forest dynamics, coastal resilience, and hurricane-related flooding through remote sensing, machine learning, and spatial analysis. I am interested in using multi-source satellite imagery and geospatial modeling to characterize mangrove species composition, canopy condition, disturbance, and recovery, with the broader goal of supporting coastal ecosystem monitoring and risk assessment.
+My research focuses on mangrove forest dynamics, coastal resilience, and hurricane-related flooding through remote sensing and spatial analysis. Specifically, I am interested in using multi-source satellite imagery and geospatial modeling to characterize mangrove species composition, canopy condition, disturbance, and recovery, with the broader goal of supporting coastal ecosystem monitoring and risk assessment.
 
 Recent Research
 ---------------
@@ -76,7 +68,7 @@ Recent Research
 </div>
 
 <div class="research-item">
-  <h3>Innovative phenological feature extraction for enhanced mangrove species mapping using high-temporal Harmonized Landsat and Sentinel-2 imagery <em>(under revision)</em></h3>
+  <h3>Phenological feature extraction for mangrove species mapping using high-temporal HLS-2 imagery <em>(under revision)</em></h3>
   <p>This study develops a phenology-based framework for mapping three dominant mangrove species, <em>Rhizophora mangle</em>, <em>Avicennia germinans</em>, and <em>Laguncularia racemosa</em>, together with dieback areas using high-temporal-resolution HLS imagery. Second-order harmonic regression is applied to vegetation-index time series to derive phenological parameters, which are integrated into a Gaussian mixture model for probabilistic classification and uncertainty assessment.</p>
   <figure class="workflow-figure">
     <a href="/images/workflow-mangrove-species-classification.png">
