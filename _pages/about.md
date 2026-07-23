@@ -8,19 +8,26 @@ redirect_from:
 ---
 
 <style>
-  .about-section {
+  .about-intro {
+    font-size: 1.05rem;
+    line-height: 1.75;
     margin-bottom: 2rem;
   }
 
-  .research-card {
+  .research-item {
     border-left: 3px solid #52adc8;
-    margin: 1.25rem 0;
+    margin: 1.35rem 0;
     padding-left: 1rem;
   }
 
-  .research-card h3 {
+  .research-item h3 {
     font-size: 1.05rem;
+    line-height: 1.35;
     margin-bottom: 0.35rem;
+  }
+
+  .research-item p {
+    margin-bottom: 0;
   }
 
   .workflow-figure {
@@ -40,28 +47,41 @@ redirect_from:
   }
 </style>
 
-<section class="about-section">
-
-I am <strong>Jing Miao</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at the <a href="https://www.buffalo.edu/">University at Buffalo</a>. My research focuses on remote sensing, mangrove forest ecology, and spatial modeling, with a particular interest in how satellite observations can support ecological monitoring, degradation assessment, and conservation planning.
-
-</section>
-
-Research Focus
---------------
-
-My work integrates multi-source satellite imagery, field observations, machine learning, and geospatial analysis to study mangrove structure, function, and disturbance dynamics. I am especially interested in developing reproducible workflows that translate remote sensing data into ecological indicators such as canopy water status, leaf nutrients, species composition, canopy gaps, and degradation or recovery trajectories.
-
-Selected Studies
-----------------
-
-<div class="research-card">
-  <h3><a href="https://www-sciencedirect-com.gate.lib.buffalo.edu/science/article/pii/S1470160X23016394">Modeling strategies and influencing factors in retrieving canopy equivalent water thickness of mangrove forest with Sentinel-2 imagery</a></h3>
-  <p>This study mapped mangrove canopy equivalent water thickness at the reserve scale and compared machine learning, radiative transfer, and hybrid modeling strategies. It also examined how species distribution, slope, elevation, and distance to dam influenced the spatial pattern of canopy water status.</p>
+<div class="about-intro">
+  Hello, I am <strong>Jing Miao</strong>, a Ph.D. student in <a href="https://www.buffalo.edu/cas/geography.html">Geography</a> at the <a href="https://www.buffalo.edu/">University at Buffalo</a>. My research focuses on remote sensing, mangrove forest ecology, and coastal resilience, with a particular interest in how mangrove forests respond to disturbance and protect coastal communities under hurricane-related flooding scenarios.
 </div>
 
-<div class="research-card">
-  <h3><a href="https://www.mdpi.com/2072-4292/14/15/3679">Mapping seasonal leaf nutrients of mangroves with Sentinel-2 imagery and XGBoost</a></h3>
-  <p>This study evaluated machine learning models for estimating mangrove leaf carbon, nitrogen, and phosphorus across seasons, then applied the best-performing model to map seasonal nutrient dynamics from 2017 to 2021.</p>
+Research Interests
+------------------
+
+My work integrates multi-source satellite imagery, machine learning, ecological field knowledge, and spatial analysis to monitor mangrove species composition, canopy condition, disturbance, and recovery. I am especially interested in developing reproducible remote-sensing workflows that connect ecological processes with actionable information for coastal conservation and risk assessment.
+
+Recent Research
+---------------
+
+<div class="research-item">
+  <h3>A cross-scale foundation model framework for annual regional mapping of post-hurricane mangrove degradation and recovery <em>(under revision)</em></h3>
+  <p>This study develops a cross-scale framework for annual mapping of post-hurricane mangrove degradation and recovery across South Florida and the northern Caribbean from 2016 to 2025. High-resolution NAIP-derived degradation labels are used to train a SkySense++ remote-sensing foundation model with a U-Net decoder. The resulting annual maps are then used to examine how species composition, canopy structure, topography, wind exposure, and inundation shape mangrove degradation and recovery trajectories.</p>
+</div>
+
+<div class="research-item">
+  <h3>Innovative phenological feature extraction for enhanced mangrove species mapping using high-temporal Harmonized Landsat and Sentinel-2 imagery <em>(under revision)</em></h3>
+  <p>This study develops a phenology-based framework for mapping three dominant mangrove species, <em>Rhizophora mangle</em>, <em>Avicennia germinans</em>, and <em>Laguncularia racemosa</em>, together with dieback areas using high-temporal-resolution HLS imagery. Second-order harmonic regression is applied to vegetation-index time series to derive phenological parameters, which are integrated into a Gaussian mixture model for probabilistic classification and uncertainty assessment.</p>
+</div>
+
+<div class="research-item">
+  <h3>Tracking lightning-induced mangrove canopy gaps in Panama using multi-temporal remote sensing <em>(under revision)</em></h3>
+  <p>Lightning-induced canopy gaps play an important role in mangrove regeneration and forest structural dynamics, but their long-term recovery is difficult to observe consistently. This study combines multi-sensor high-resolution satellite imagery, radiometric normalization, U-Net segmentation, and object-based temporal tracking to map mangrove canopy gaps in Panama from 2000 to 2020 and reconstruct gap formation, persistence, re-observation, and recovery.</p>
+</div>
+
+<div class="research-item">
+  <h3><a href="https://doi.org/10.1016/j.ecolind.2023.111497">Modeling strategies and influencing factors in retrieving canopy equivalent water thickness of mangrove forest with Sentinel-2 imagery</a></h3>
+  <p>This paper maps mangrove canopy equivalent water thickness using Sentinel-2 imagery at the reserve scale and compares machine learning, radiative transfer, and hybrid modeling strategies. It further evaluates how species distribution, slope, elevation, and distance to dam influence the spatial distribution of canopy water status.</p>
+</div>
+
+<div class="research-item">
+  <h3><a href="https://doi.org/10.3390/rs14153679">Mapping seasonal leaf nutrients of mangroves with Sentinel-2 imagery and XGBoost</a></h3>
+  <p>This study compares machine learning models for estimating mangrove leaf carbon, nitrogen, and phosphorus from Sentinel-2 imagery acquired in spring, summer, and winter. The best-performing model is then used to map seasonal leaf nutrient dynamics from 2017 to 2021.</p>
 </div>
 
 Research Workflows
@@ -69,16 +89,9 @@ Research Workflows
 
 <figure class="workflow-figure">
   <a href="/images/workflow-mangrove-degradation.png">
-    <img src="/images/workflow-mangrove-degradation.png" alt="Workflow for mangrove degradation mapping and recovery analysis">
+    <img src="/images/workflow-mangrove-degradation.png" alt="Workflow for post-hurricane mangrove degradation mapping and recovery analysis">
   </a>
-  <figcaption>Workflow for multi-year mangrove degradation mapping, model training, prediction, segmentation, and recovery analysis.</figcaption>
-</figure>
-
-<figure class="workflow-figure">
-  <a href="/images/workflow-mangrove-gap-detection.png">
-    <img src="/images/workflow-mangrove-gap-detection.png" alt="Workflow for multi-year mangrove gap detection">
-  </a>
-  <figcaption>Workflow for detecting and characterizing mangrove canopy gaps using multi-year high-resolution satellite imagery.</figcaption>
+  <figcaption>Workflow for annual post-hurricane mangrove degradation mapping, model training, prediction, segmentation, and recovery analysis.</figcaption>
 </figure>
 
 <figure class="workflow-figure">
@@ -88,8 +101,14 @@ Research Workflows
   <figcaption>Workflow for mangrove species classification using high-temporal remote sensing imagery, vegetation-index time series, Gaussian mixture models, and uncertainty assessment.</figcaption>
 </figure>
 
+<figure class="workflow-figure">
+  <a href="/images/workflow-mangrove-gap-detection.png">
+    <img src="/images/workflow-mangrove-gap-detection.png" alt="Workflow for multi-year mangrove canopy gap detection">
+  </a>
+  <figcaption>Workflow for detecting and characterizing mangrove canopy gaps using multi-year high-resolution satellite imagery.</figcaption>
+</figure>
+
 Beyond Research
 ---------------
 
-Outside of research, I enjoy basketball, novels, and exploring new ideas. Some of my favorite writers are Elena Ferrante and Albert Camus, and I am drawn to evening glories, forests, the ocean, and the everyday curiosity that keeps learning alive.
-
+Outside of research, I enjoy tennis, basketball, reading novels, and exploring new ideas. Some of my favorite writers are Elena Ferrante and Albert Camus. I am drawn to evening glories, forests, the ocean, and the curiosity that keeps learning alive.
