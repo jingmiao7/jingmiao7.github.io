@@ -23,10 +23,10 @@ author_profile: true
     border: 1px solid #e6e8eb;
     display: block;
     height: auto;
-    max-height: 680px;
+    max-height: 460px;
     max-width: 100%;
     object-fit: contain;
-    width: auto;
+    width: min(100%, 520px);
   }
 
   .photo-share__item figcaption {
