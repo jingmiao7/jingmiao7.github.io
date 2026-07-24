@@ -39,8 +39,8 @@ author_profile: true
 
 <div class="photo-share">
   <figure class="photo-share__item">
-    <a href="/images/photo-share/1999-grandma-holding-me.jpg">
-      <img src="/images/photo-share/1999-grandma-holding-me.jpg" alt="Grandma holding me in 1999">
+    <a href="/images/photo-share/1999-with-grandma.png">
+      <img src="/images/photo-share/1999-with-grandma.png" alt="Grandma holding me in 1999">
     </a>
     <figcaption>1999, with my grandma.</figcaption>
   </figure>
