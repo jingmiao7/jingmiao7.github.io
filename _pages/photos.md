@@ -1,6 +1,5 @@
 ---
-permalink: /photos/
-title: "Photos"
+permalink: /blog/
 author_profile: true
 ---
 

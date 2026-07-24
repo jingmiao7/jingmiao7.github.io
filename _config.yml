@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jing Miao| 苗菁"
+title                    : "Jing Miao|苗菁"
 title_separator          : "-"
 name                     : &name "Jing Miao"
 description              : &description "personal description"
