@@ -41,6 +41,6 @@ author_profile: true
     <a href="/images/photo-share/1999-with-grandma.png">
       <img src="/images/photo-share/1999-with-grandma.png" alt="Grandma holding me in 1999">
     </a>
-    <figcaption>1999, with my grandma.</figcaption>
+    <figcaption>1999, with my grandma, Xiufang Zhang.</figcaption>
   </figure>
 </div>
